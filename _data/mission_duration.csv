@@ -1,0 +1,76 @@
+mission,begin,launch,end,program,destination
+Cassini,1990,1997,2019,Flagship,Saturn
+CONTOUR,1998,2002,2002,Discovery,Small Bodies
+DART,2016,2021,2023,Planetary Defense,Earth
+Dawn,2002,2007,2019,Discovery,Small Bodies
+Deep Impact,1999,2005,2013,Discovery,Small Bodies
+Deep Space 1,1996,1998,2002,New Millenium,Small Bodies
+Europa Clipper,2015,2025,2025,Flagship,Jupiter
+Galileo,1978,1989,2003,Flagship,Jupiter
+Genesis,1997,2001,2006,Discovery,Small Bodies
+GRAIL,2007,2011,2014,Discovery,Moon
+InSight,2011,2018,2023,Discovery,Mars
+Juno,2005,2011,2022,New Frontiers,Jupiter
+LADEE,2008,2013,2014,Lunar Quest,Moon
+Lucy,2016,2021,2025,Discovery,Small Bodies
+Lunar Orbiter 1,1963,1966,1968,Lunar Orbiter,Moon
+Lunar Orbiter 2,1963,1966,1968,Lunar Orbiter,Moon
+Lunar Orbiter 3,1963,1966,1968,Lunar Orbiter,Moon
+Lunar Orbiter 4,1963,1967,1968,Lunar Orbiter,Moon
+Lunar Orbiter 4,1963,1967,1968,Lunar Orbiter,Moon
+Lunar Orbiter 5,1963,1967,1968,Lunar Orbiter,Moon
+Lunar Prospector,1996,1998,1999,Discovery,Moon
+Lunar Ranger 1,1960,1961,1966,Ranger,Moon
+Lunar Ranger 2,1960,1961,1966,Ranger,Moon
+Lunar Ranger 3,1960,1962,1966,Ranger,Moon
+Lunar Ranger 4,1960,1962,1966,Ranger,Moon
+Lunar Ranger 5,1960,1962,1966,Ranger,Moon
+Lunar Ranger 6,1960,1964,1966,Ranger,Moon
+Lunar Ranger 7,1960,1964,1966,Ranger,Moon
+Lunar Ranger 8,1960,1965,1966,Ranger,Moon
+Lunar Ranger 9,1960,1965,1966,Ranger,Moon
+Lunar Surveyor 1,1961,1966,1968,Surveyor,Moon
+Lunar Surveyor 2,1961,1966,1968,Surveyor,Moon
+Lunar Surveyor 3,1961,1967,1968,Surveyor,Moon
+Lunar Surveyor 4,1961,1967,1968,Surveyor,Moon
+Lunar Surveyor 5,1961,1967,1968,Surveyor,Moon
+Lunar Surveyor 6,1961,1967,1968,Surveyor,Moon
+Lunar Surveyor 7,1961,1968,1968,Surveyor,Moon
+Magellan,1984,1989,1994,Flagship,Venus
+Mariner 1,1962,1962,1963,Mariner,Venus
+Mariner 2,1962,1962,1963,Mariner,Venus
+Mariner 3,1963,1964,1967,Mariner,Mars
+Mariner 4,1963,1964,1967,Mariner,Mars
+Mariner 5,1966,1967,1968,Mariner,Venus
+Mariner 6,1966,1969,1972,Mariner,Mars
+Mariner 7,1966,1969,1972,Mariner,Mars
+Mariner 8,1969,1971,1974,Mariner,Mars
+Mariner 9, 1969,1971,1974,Mariner,Mars
+Mariner 10,1970,1973,1975,Mariner,Venus
+Mars Perseverance,2013,2020,2023,Flagship,Mars
+Mars Observer,1985,1992,1993,Mars
+Mars Odyssey,1998,2001,2021,MEP,Mars
+Mars Pathfinder,1993,1996,1998,Discovery,Mars
+MAVEN,2007,2013,2025,MEP,Mars
+MESSENGER,1999,2004,2016,Discovery,Mercury
+MER - Spirit,2000,2003,2019,MEP,Mars
+MER - Opportunity,2000,2003,2019,MEP,Mars
+Mars Global Surveyor,1994,1996,2006,MEP,Mars
+MOMA,2011,2022,2024,MEP,Mars
+MPL/MCO,1996,1998,2000,MEP,Mars
+Mars Reconnaisance Orbiter,2001,2005,2025,MEP,Mars
+MSL Curiosity,2002,2011,2021,Flagship,Mars
+NEAR,1994,1996,2003,Discovery,Small Bodies
+New Horizons,2001,2006,2021,New Frontiers,Pluto
+OSIRIS-REx,2011,2016,2025,New Frontiers,Small Bodies
+Phoenix,2003,2007,2009,MEP,Mars
+Pioneer 10,1969,1972,2003,Pioneer,Jupiter/Saturn
+Pioneer 11,1969,1973,2003,Pioneer,Jupiter/Saturn
+Pioneer Venus 1,1975,1978,1992,Pioneer,Venus
+Pioneer Venus 2,1975,1978,1992,Pioneer,Venus
+Psyche,2016,2022,2025,Discovery,Small Bodies
+Stardust,1996,1999,2011,Discovery,Small Bodies
+Voyager 1,1972,1977,2019,Flagship,Jupiter/Saturn
+Voyager 2,1972,1977,2019,Flagship,Jupiter/Saturn/Uranus/Neptune
+Viking 1,1969,1975,1980,Flagship,Mars
+Viking 2,1963,1975,1980,Flagship,Mars

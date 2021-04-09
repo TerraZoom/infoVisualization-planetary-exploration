@@ -1,0 +1,8 @@
+[
+  { destination: "Moon", total:13187.35, radius:264 },
+  { destination: "Mars", total:28624.9, radius:572 },
+  { destination: "Mercury", total:1495.4, radius:28  },
+  { destination: "Venus", total:3645.8, radius:72 },
+  { destination: "Outer Planets", total:19324.7437, radius:386 },
+  { destination: "Small Bodies", total:6347.0582, radius:128 }
+]

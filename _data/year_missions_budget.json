@@ -1,0 +1,353 @@
+{
+      "year": "1960",
+    {
+      "children": [
+        { "destination": "Moon", "missions:" 0, "funding": 256.9773, "cumFunding": 256.9773, "cumMissions": 0  },
+        { "destination": "Mars", "missions:" 0, "funding": 0, "cumFunding": 0, "cumMissions": 0  },
+        { "destination": "Venus", "missions:" 0, "funding": 0, "cumFunding": 0, "cumMissions": 0  },
+        { "destination": "Mercury", "missions:" 0, "funding": 0, "cumFunding": 0, "cumMissions": 0    },
+        { "destination": "Outer Planets", "missions:" 0, "funding": 0, "cumFunding": 0, "cumMissions": 0    },
+        { "destination": "Small Bodies", "missions:" 0, "funding": 0, "cumFunding": 0, "cumMissions": 0    },
+      ]
+    },
+    "year": "1961",
+    {
+      "children": [
+      { "destination": "Moon", "missions:" 2, "funding": 664.113  },
+      { "destination": "Mars", "missions:" 0, "funding": 0 },
+      { "destination": "Venus", "missions:" 0, "funding": 0 },
+      { "destination": "Mercury", "missions:" 0, "funding": 0  },
+      { "destination": "Outer Planets", "missions:" 0, "funding": 0  },
+      { "destination": "Small Bodies", "missions:" 0, "funding": 0  },
+    ]
+  "year": "1962",
+  {
+    "children": [
+    { "destination": "Moon", "missions:" 3, "funding": 1228.324  },
+    { "destination": "Mars", "missions:" 0, "funding": 0 },
+    { "destination": "Venus", "missions:" 2, "funding": 370.329 },
+    { "destination": "Mercury", "missions:" 0, "funding": 0  },
+    { "destination": "Outer Planets", "missions:" 0, "funding": 0  },
+    { "destination": "Small Bodies", "missions:" 0, "funding": 0  },
+  ]
+},
+"year": "1963",
+{
+  "children": [
+  { "destination": "Moon", "missions:" 0, "funding": 1676.841  },
+  { "destination": "Mars", "missions:" 0, "funding": 433.4129 },
+  { "destination": "Venus", "missions:" 0, "funding": 91.1526 },
+  { "destination": "Mercury", "missions:" 0, "funding": 0  },
+  { "destination": "Outer Planets", "missions:" 0, "funding": 0  },
+  { "destination": "Small Bodies", "missions:" 0, "funding": 0  },
+]
+},
+"year": "1964",
+{
+  "children": [
+  { "destination": "Moon", "missions:" 2, "funding": 1733.297  },
+  { "destination": "Mars", "missions:" 2, "funding": 440.7725 },
+  { "destination": "Venus", "missions:" 0, "funding": 0 },
+  { "destination": "Mercury", "missions:" 0, "funding": 0  },
+  { "destination": "Outer Planets", "missions:" 0, "funding": 0  },
+  { "destination": "Small Bodies", "missions:" 0, "funding": 0  },
+]
+},
+"year": "1965",
+{
+  "children": [
+  { "destination": "Moon", "missions:" 2, "funding": 2098.091  },
+  { "destination": "Mars", "missions:" 0, "funding": 177,471 },
+  { "destination": "Venus", "missions:" 0, "funding": 0 },
+  { "destination": "Mercury", "missions:" 0, "funding": 0  },
+  { "destination": "Outer Planets", "missions:" 0, "funding": 0  },
+  { "destination": "Small Bodies", "missions:" 0, "funding": 0  },
+]
+},
+"year": "1966",
+{
+  "children": [
+  { "destination": "Moon", "missions:" 4, "funding": 1996.877  },
+  { "destination": "Mars", "missions:" 0, "funding": 24.13223 },
+  { "destination": "Venus", "missions:" 0, "funding": 262.509 },
+  { "destination": "Mercury", "missions:" 0, "funding": 0  },
+  { "destination": "Outer Planets", "missions:" 0, "funding": 0  },
+  { "destination": "Small Bodies", "missions:" 0, "funding": 0  },
+]
+},
+"year": "1967",
+{
+  "children": [
+  { "destination": "Moon", "missions:" 7, "funding": 1210.362  },
+  { "destination": "Mars", "missions:" 0, "funding": 306.7239 },
+  { "destination": "Venus", "missions:" 1, "funding": 207.4845 },
+  { "destination": "Mercury", "missions:" 0, "funding": 0  },
+  { "destination": "Outer Planets", "missions:" 0, "funding": 0  },
+  { "destination": "Small Bodies", "missions:" 0, "funding": 0  },
+]
+},
+"year": "1968",
+{
+  "children": [
+  { "destination": "Moon", "missions:" 2, "funding": 401.964  },
+  { "destination": "Mars", "missions:" 0, "funding": 651.78 },
+  { "destination": "Venus", "missions:" 0, "funding": 31.7832 },
+  { "destination": "Mercury", "missions:" 0, "funding": 0  },
+  { "destination": "Outer Planets", "missions:" 0, "funding": 0  },
+  { "destination": "Small Bodies", "missions:" 0, "funding": 0  },
+]
+},
+"year": "1969",
+{
+  "children": [
+  { "destination": "Moon", "missions:" 0, "funding": 0  },
+  { "destination": "Mars", "missions:" 1, "funding": 718.2655 },
+  { "destination": "Venus", "missions:" 0, "funding": 0 },
+  { "destination": "Mercury", "missions:" 0, "funding": 0  },
+  { "destination": "Outer Planets", "missions:" 0, "funding": 52.75446  },
+  { "destination": "Small Bodies", "missions:" 0, "funding": 0  },
+]
+},
+"year": "1970",
+{
+  "children": [
+  { "destination": "Moon", "missions:" 0, "funding": 0  },
+  { "destination": "Mars", "missions:" 0, "funding": 946.911 },
+  { "destination": "Venus", "missions:" 0, "funding": 0 },
+  { "destination": "Mercury", "missions:" 0, "funding": 7.4457  },
+  { "destination": "Outer Planets", "missions:" 0, "funding": 187.0443  },
+  { "destination": "Small Bodies", "missions:" 0, "funding": 0  },
+]
+},
+"year": "1971",
+{
+  "children": [
+  { "destination": "Moon", "missions:" 0, "funding": 0  },
+  { "destination": "Mars", "missions:" 2, "funding": 564.8824 },
+  { "destination": "Venus", "missions:" 0, "funding": 0 },
+  { "destination": "Mercury", "missions:" 0, "funding": 104.3389  },
+  { "destination": "Outer Planets", "missions:" 2, "funding": 439.7084  },
+  { "destination": "Small Bodies", "missions:" 0, "funding": 0  },
+]
+},
+"year": "1972",
+{
+  "children": [
+  { "destination": "Moon", "missions:" 0, "funding": 0  },
+  { "destination": "Mars", "missions:" 0, "funding": 1496.898 },
+  { "destination": "Venus", "missions:" 0, "funding": 0 },
+  { "destination": "Mercury", "missions:" 0, "funding": 385.8212 },
+  { "destination": "Outer Planets", "missions:" 0, "funding": 207.1138  },
+  { "destination": "Small Bodies", "missions:" 0, "funding": 0  },
+]
+},
+"year": "1973",
+{
+  "children": [
+  { "destination": "Moon", "missions:" 0, "funding": 0  },
+  { "destination": "Mars", "missions:" 0, "funding": 1897.713 },
+  { "destination": "Venus", "missions:" 1, "funding": 0 },
+  { "destination": "Mercury", "missions:" 1, "funding": 259.8806  },
+  { "destination": "Outer Planets", "missions:" 0, "funding": 60.77262  },
+  { "destination": "Small Bodies", "missions:" 0, "funding": 0  },
+]
+},
+"year": "1974",
+{
+  "children": [
+  { "destination": "Moon", "missions:" 0, "funding": 0  },
+  { "destination": "Mars", "missions:" 0, "funding": 2036.714 },
+  { "destination": "Venus", "missions:" 0, "funding": 0 },
+  { "destination": "Mercury", "missions:" 0, "funding": 72.58266  },
+  { "destination": "Outer Planets", "missions:" 0, "funding": 337.0513  },
+  { "destination": "Small Bodies", "missions:" 0, "funding": 0  },
+]
+},
+"year": "1975",
+{
+  "children": [
+  { "destination": "Moon", "missions:" 0, "funding": 0  },
+  { "destination": "Mars", "missions:" 2, "funding": 558.4418 },
+  { "destination": "Venus", "missions:" 0, "funding": 160.2083 },
+  { "destination": "Mercury", "missions:" 0, "funding": 31.22526  },
+  { "destination": "Outer Planets", "missions:" 0, "funding": 480.2673  },
+  { "destination": "Small Bodies", "missions:" 0, "funding": 0  },
+]
+},
+"year": "1976",
+{
+  "children": [
+  { "destination": "Moon", "missions:" 0, "funding": 0  },
+  { "destination": "Mars", "missions:" 0, "funding": 212.51 },
+  { "destination": "Venus", "missions:" 0, "funding": 338.94 },
+  { "destination": "Mercury", "missions:" 0, "funding": 0  },
+  { "destination": "Outer Planets", "missions:" 0, "funding": 625.156  },
+  { "destination": "Small Bodies", "missions:" 0, "funding": 0  },
+]
+},
+"year": "1977",
+{
+  "children": [
+  { "destination": "Moon", "missions:" 0, "funding": 0  },
+  { "destination": "Mars", "missions:" 0, "funding": 123.3678 },
+  { "destination": "Venus", "missions:" 0, "funding": 317.4075 },
+  { "destination": "Mercury", "missions:" 0, "funding": 0  },
+  { "destination": "Outer Planets", "missions:" 2, "funding": 301.4594  },
+  { "destination": "Small Bodies", "missions:" 0, "funding": 0  },
+]
+},
+"year": "1978",
+{
+  "children": [
+  { "destination": "Moon", "missions:" 0, "funding": 0  },
+  { "destination": "Mars", "missions:" 0, "funding": 90.1 },
+  { "destination": "Venus", "missions:" 2, "funding": 104.5385 },
+  { "destination": "Mercury", "missions:" 0, "funding": 0  },
+  { "destination": "Outer Planets", "missions:" 0, "funding": 174.7084  },
+  { "destination": "Small Bodies", "missions:" 0, "funding": 0  },
+]
+},
+"year": "1979,
+{
+  "children": [
+  { "destination": "Moon", "missions:" 0, "funding": 0  },
+  { "destination": "Mars", "missions:" 0, "funding": 20.575 },
+  { "destination": "Venus", "missions:" 0, "funding": 37.035 },
+  { "destination": "Mercury", "missions:" 0, "funding": 0  },
+  { "destination": "Outer Planets", "missions:" 0, "funding": 404.3687  },
+  { "destination": "Small Bodies", "missions:" 0, "funding": 0  },
+]
+},
+"year": "1980",
+{
+  "children": [
+  { "destination": "Moon", "missions:" 0, "funding": 0  },
+  { "destination": "Mars", "missions:" 0, "funding": 31.40865 },
+  { "destination": "Venus", "missions:" 0, "funding": 30.66897 },
+  { "destination": "Mercury", "missions:" 0, "funding": 0  },
+  { "destination": "Outer Planets", "missions:" 0, "funding": 512.5743  },
+  { "destination": "Small Bodies", "missions:" 0, "funding": 0  },
+]
+},
+"year": "1981",
+{
+  "children": [
+  { "destination": "Moon", "missions:" 0, "funding": 0  },
+  { "destination": "Mars", "missions:" 0, "funding": 14.8544 },
+  { "destination": "Venus", "missions:" 0, "funding": 15.8672 },
+  { "destination": "Mercury", "missions:" 0, "funding": 0  },
+  { "destination": "Outer Planets", "missions:" 0, "funding": 317.5668  },
+  { "destination": "Small Bodies", "missions:" 0, "funding": 0  },
+]
+},
+"year": "1982",
+{
+  "children": [
+  { "destination": "Moon", "missions:" 0, "funding": 0  },
+  { "destination": "Mars", "missions:" 0, "funding": 9.0828 },
+  { "destination": "Venus", "missions:" 0, "funding": 15.8688 },
+  { "destination": "Mercury", "missions:" 0, "funding": 0  },
+  { "destination": "Outer Planets", "missions:" 0, "funding": 422.1936  },
+  { "destination": "Small Bodies", "missions:" 0, "funding": 0  },
+]
+},
+"year": "1983",
+{
+  "children": [
+  { "destination": "Moon", "missions:" 0, "funding": 0  },
+  { "destination": "Mars", "missions:" 0, "funding": 12.6549 },
+  { "destination": "Venus", "missions:" 0, "funding": 14.9112 },
+  { "destination": "Mercury", "missions:" 0, "funding": 0  },
+  { "destination": "Outer Planets", "missions:" 0, "funding": 320.787  },
+  { "destination": "Small Bodies", "missions:" 0, "funding": 0  },
+]
+},
+"year": "1984",
+{
+  "children": [
+  { "destination": "Moon", "missions:" 0, "funding": 0  },
+  { "destination": "Mars", "missions:" 0, "funding": 8.0968 },
+  { "destination": "Venus", "missions:" 0, "funding": 95.11413 },
+  { "destination": "Mercury", "missions:" 0, "funding": 0  },
+  { "destination": "Outer Planets", "missions:" 0, "funding": 275.2912  },
+  { "destination": "Small Bodies", "missions:" 0, "funding": 0  },
+]
+},
+"year": "1985",
+  {
+    "children": [
+      { "destination": "Moon", "missions:" 0, "funding": 0  },
+      { "destination": "Mars", "missions:" 0, "funding": 41.4361 },
+      { "destination": "Venus", "missions:" 0, "funding": 263.5276 },
+      { "destination": "Mercury", "missions:" 0, "funding": 0  },
+      { "destination": "Outer Planets", "missions:" 0, "funding": 229.142  },
+      { "destination": "Small Bodies", "missions:" 0, "funding": 0  },
+    ]
+  },
+"year": "1986",
+  {
+    "children": [
+      { "destination": "Moon", "missions:" 0, "funding": 0  },
+      { "destination": "Mars", "missions:" 0, "funding": 96.7518 },
+      { "destination": "Venus", "missions:" 0, "funding": 328.7114 },
+      { "destination": "Mercury", "missions:" 0, "funding": 0  },
+      { "destination": "Outer Planets", "missions:" 0, "funding": 249.09  },
+      { "destination": "Small Bodies", "missions:" 0, "funding": 0  },
+    ]
+  },
+"year": "1987",
+  {
+    "children": [
+      { "destination": "Moon", "missions:" 0, "funding": 0  },
+      { "destination": "Mars", "missions:" 0, "funding": 97.40469 },
+      { "destination": "Venus", "missions:" 0, "funding": 278.3495 },
+      { "destination": "Mercury", "missions:" 0, "funding": 0  },
+      { "destination": "Outer Planets", "missions:" 0, "funding": 261.4848  },
+      { "destination": "Small Bodies", "missions:" 0, "funding": 0  },
+    ]
+  },
+"year": "1988",
+  {
+    "children": [
+      { "destination": "Moon", "missions:" 0, "funding": 0  },
+      { "destination": "Mars", "missions:" 0, "funding": 137.7481 },
+      { "destination": "Venus", "missions:" 0, "funding": 185.1408 },
+      { "destination": "Mercury", "missions:" 0, "funding": 0  },
+      { "destination": "Outer Planets", "missions:" 0, "funding": 191.4078  },
+      { "destination": "Small Bodies", "missions:" 0, "funding": 0  },
+    ]
+  },
+"year": "1989",
+  {
+    "children": [
+      { "destination": "Moon", "missions:" 0, "funding": 0  },
+      { "destination": "Mars", "missions:" 0, "funding": 284.5654 },
+      { "destination": "Venus", "missions:" 0, "funding": 150.1556 },
+      { "destination": "Mercury", "missions:" 0, "funding": 0  },
+      { "destination": "Outer Planets", "missions:" 0, "funding": 272.699  },
+      { "destination": "Small Bodies", "missions:" 0, "funding": 0  },
+    ]
+  },
+"year": "1990",
+  {
+    "children": [
+      { "destination": "Moon", "missions:" 0, "funding": 0  },
+      { "destination": "Mars", "missions:" 0, "funding": 96.7518 },
+      { "destination": "Venus", "missions:" 0, "funding": 328.7114 },
+      { "destination": "Mercury", "missions:" 0, "funding": 0  },
+      { "destination": "Outer Planets", "missions:" 0, "funding": 249.09  },
+      { "destination": "Small Bodies", "missions:" 0, "funding": 0  },
+    ]
+  },
+
+
+
+
+
+
+
+
+
+
+      ]
+};

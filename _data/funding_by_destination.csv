@@ -1,0 +1,379 @@
+destination,year,funding
+Moon,1960,256.9773
+Moon,1961,664.11304
+Moon,1962,1228.32426
+Moon,1963,1676.840862
+Moon,1964,1733.29728
+Moon,1965,2098.090645
+Moon,1966,1996.877025
+Moon,1967,1210.362226
+Moon,1968,401.964
+Moon,1969,0
+Moon,1970,0
+Moon,1971,0
+Moon,1972,0
+Moon,1973,0
+Moon,1974,0
+Moon,1975,0
+Moon,1976,0
+Moon,1977,0
+Moon,1978,0
+Moon,1979,0
+Moon,1980,0
+Moon,1981,0
+Moon,1982,0
+Moon,1983,0
+Moon,1984,0
+Moon,1985,0
+Moon,1986,0
+Moon,1987,0
+Moon,1988,0
+Moon,1989,0
+Moon,1990,0
+Moon,1991,0
+Moon,1992,0
+Moon,1993,0
+Moon,1994,0
+Moon,1995,0
+Moon,1996,64.5736
+Moon,1997,36.0294
+Moon,1998,8.0229
+Moon,1999,3.6652
+Moon,2000,0
+Moon,2001,0
+Moon,2002,0
+Moon,2003,0
+Moon,2004,0
+Moon,2005,0
+Moon,2006,0
+Moon,2007,1.5456
+Moon,2008,134.8496
+Moon,2009,270.84
+Moon,2010,263.1944
+Moon,2011,276.816
+Moon,2012,198.8884
+Moon,2013,91.014
+Moon,2014,30.3644
+Moon,2015,0
+Moon,2016,0
+Moon,2017,0
+Moon,2018,0
+Moon,2019,192.9906
+Moon,2020,300
+Moon,2021,451.5
+Moon,2022,517.3
+Mars,1960,0
+Mars,1961,0
+Mars,1962,0
+Mars,1963,433.412856
+Mars,1964,440.77248
+Mars,1965,177.471
+Mars,1966,24.132225
+Mars,1967,306.72389
+Mars,1968,651.779952
+Mars,1969,718.26546
+Mars,1970,946.911034
+Mars,1971,564.882357
+Mars,1972,1496.8979
+Mars,1973,1897.71255
+Mars,1974,2036.713626
+Mars,1975,558.44184
+Mars,1976,212.51
+Mars,1977,123.3678
+Mars,1978,90.1
+Mars,1979,20.575
+Mars,1980,31.40865
+Mars,1981,14.8544
+Mars,1982,9.0828
+Mars,1983,12.6549
+Mars,1984,8.0968
+Mars,1985,43.4861
+Mars,1986,96.7518
+Mars,1987,97.404692
+Mars,1988,137.748104
+Mars,1989,284.5654
+Mars,1990,380.064048
+Mars,1991,438.5167
+Mars,1992,251.7024
+Mars,1993,53.4594
+Mars,1994,177.7345
+Mars,1995,354.1464
+Mars,1996,360.8316
+Mars,1997,270.7452
+Mars,1998,288.9951
+Mars,1999,314.041
+Mars,2000,407.1343
+Mars,2001,691.542
+Mars,2002,686.7207
+Mars,2003,736.0884
+Mars,2004,847.9386
+Mars,2005,812.13
+Mars,2006,886.0236
+Mars,2007,817.7512
+Mars,2008,882.3692
+Mars,2009,441.274
+Mars,2010,527.5928
+Mars,2011,652.224
+Mars,2012,760.7452
+Mars,2013,568.491
+Mars,2014,556.6429
+Mars,2015,527.25
+Mars,2016,662.5845
+Mars,2017,730.2475
+Mars,2018,789.915
+Mars,2019,754.9308
+Mars,2020,558.3
+Mars,2021,540.4
+Mars,2022,597.2
+Mercury,1960,0
+Mercury,1961,0
+Mercury,1962,0
+Mercury,1963,0
+Mercury,1964,0
+Mercury,1965,0
+Mercury,1966,0
+Mercury,1967,0
+Mercury,1968,0
+Mercury,1969,0
+Mercury,1970,7.4457
+Mercury,1971,104.338898
+Mercury,1972,385.8212
+Mercury,1973,259.880562
+Mercury,1974,72.58266
+Mercury,1975,31.22526
+Mercury,1976,0
+Mercury,1977,0
+Mercury,1978,0
+Mercury,1979,0
+Mercury,1980,0
+Mercury,1981,0
+Mercury,1982,0
+Mercury,1983,0
+Mercury,1984,0
+Mercury,1985,0
+Mercury,1986,0
+Mercury,1987,0
+Mercury,1988,0
+Mercury,1989,0
+Mercury,1990,0
+Mercury,1991,0
+Mercury,1992,0
+Mercury,1993,0
+Mercury,1994,0
+Mercury,1995,0
+Mercury,1996,0
+Mercury,1997,0
+Mercury,1998,0
+Mercury,1999,0
+Mercury,2000,2.8322
+Mercury,2001,15.3696
+Mercury,2002,80.031
+Mercury,2003,146.3922
+Mercury,2004,127.5357
+Mercury,2005,60.1506
+Mercury,2006,10.626
+Mercury,2007,10.9716
+Mercury,2008,12.1072
+Mercury,2009,14.306
+Mercury,2010,19.886
+Mercury,2011,19.0232
+Mercury,2012,26.8995
+Mercury,2013,40.9028
+Mercury,2014,19.173
+Mercury,2015,13.8226
+Mercury,2016,6.66
+Mercury,2017,7.446
+Mercury,2018,0
+Mercury,2019,0
+Mercury,2020,0
+Mercury,2021,0
+Mercury,2022,0
+Venus,1960,0
+Venus,1961,0
+Venus,1962,370.328952
+Venus,1963,91.1526
+Venus,1964,0
+Venus,1965,0
+Venus,1966,262.509
+Venus,1967,207.484474
+Venus,1968,31.7832
+Venus,1969,0
+Venus,1970,0
+Venus,1971,0
+Venus,1972,0
+Venus,1973,0
+Venus,1974,0
+Venus,1975,160.20834
+Venus,1976,338.94
+Venus,1977,317.40495
+Venus,1978,104.538525
+Venus,1979,37.035
+Venus,1980,30.668967
+Venus,1981,15.8672
+Venus,1982,15.8688
+Venus,1983,14.9112
+Venus,1984,95.11413333
+Venus,1985,263.5275667
+Venus,1986,328.7114
+Venus,1987,278.3495
+Venus,1988,185.1408
+Venus,1989,150.1556
+Venus,1990,102.881688
+Venus,1991,104.346
+Venus,1992,103.4064
+Venus,1993,13.461
+Venus,1994,22.007
+Venus,1995,0
+Venus,1996,0
+Venus,1997,
+Venus,1998,
+Venus,1999,
+Venus,2000,
+Venus,2001,
+Venus,2002,
+Venus,2003,
+Venus,2004,
+Venus,2005,
+Venus,2006,
+Venus,2007,
+Venus,2008,
+Venus,2009,
+Venus,2010,
+Venus,2011,
+Venus,2012,
+Venus,2013,
+Venus,2014,
+Venus,2015,
+Venus,2016,
+Venus,2017,
+Venus,2018,
+Venus,2019,
+Venus,2020,
+Venus,2021,
+Venus,2022,
+Outer Planets,1960,0
+Outer Planets,1961,0
+Outer Planets,1962,0
+Outer Planets,1963,0
+Outer Planets,1964,0
+Outer Planets,1965,0
+Outer Planets,1966,0
+Outer Planets,1967,0
+Outer Planets,1968,0
+Outer Planets,1969,52.75446
+Outer Planets,1970,187.044257
+Outer Planets,1971,439.708368
+Outer Planets,1972,207.113827
+Outer Planets,1973,60.722622
+Outer Planets,1974,337.05126
+Outer Planets,1975,480.267255
+Outer Planets,1976,625.156
+Outer Planets,1977,301.459419
+Outer Planets,1978,174.708405
+Outer Planets,1979,404.368705
+Outer Planets,1980,512.5743
+Outer Planets,1981,317.566816
+Outer Planets,1982,422.1936
+Outer Planets,1983,320.787
+Outer Planets,1984,275.2912
+Outer Planets,1985,229.142036
+Outer Planets,1986,249.09
+Outer Planets,1987,261.484795
+Outer Planets,1988,191.40784
+Outer Planets,1989,272.699
+Outer Planets,1990,210.116088
+Outer Planets,1991,453.538308
+Outer Planets,1992,597.526
+Outer Planets,1993,576.435916
+Outer Planets,1994,820.3513333
+Outer Planets,1995,771.3774
+Outer Planets,1996,655.6704
+Outer Planets,1997,459.1125
+Outer Planets,1998,167.6274
+Outer Planets,1999,159.936
+Outer Planets,2000,121.9962
+Outer Planets,2001,247.818
+Outer Planets,2002,160.3701
+Outer Planets,2003,156.6615
+Outer Planets,2004,118.3307143
+Outer Planets,2005,115.506
+Outer Planets,2006,162.7677
+Outer Planets,2007,217.7364
+Outer Planets,2008,219.255
+Outer Planets,2009,445.178
+Outer Planets,2010,430.6708
+Outer Planets,2011,338.3175
+Outer Planets,2012,166.1896
+Outer Planets,2013,197.3895
+Outer Planets,2014,187.5115
+Outer Planets,2015,249.639
+Outer Planets,2016,342.1875
+Outer Planets,2017,459.025
+Outer Planets,2018,697.83
+Outer Planets,2019,832.2912
+Outer Planets,2020,676
+Outer Planets,2021,846.4
+Outer Planets,2022,741.4
+Small Bodies,1960,0
+Small Bodies,1961,0
+Small Bodies,1962,0
+Small Bodies,1963,0
+Small Bodies,1964,0
+Small Bodies,1965,0
+Small Bodies,1966,0
+Small Bodies,1967,0
+Small Bodies,1968,0
+Small Bodies,1969,0
+Small Bodies,1970,0
+Small Bodies,1971,0
+Small Bodies,1972,0
+Small Bodies,1973,0
+Small Bodies,1974,0
+Small Bodies,1975,0
+Small Bodies,1976,0
+Small Bodies,1977,0
+Small Bodies,1978,0
+Small Bodies,1979,0
+Small Bodies,1980,0
+Small Bodies,1981,0
+Small Bodies,1982,0
+Small Bodies,1983,0
+Small Bodies,1984,0
+Small Bodies,1985,0
+Small Bodies,1986,0
+Small Bodies,1987,0
+Small Bodies,1988,0
+Small Bodies,1989,0
+Small Bodies,1990,0
+Small Bodies,1991,0
+Small Bodies,1992,0
+Small Bodies,1993,0
+Small Bodies,1994,170.088
+Small Bodies,1995,119.988
+Small Bodies,1996,151.3222
+Small Bodies,1997,187.3179
+Small Bodies,1998,221.91
+Small Bodies,1999,105.6244
+Small Bodies,2000,155.7773
+Small Bodies,2001,241.02
+Small Bodies,2002,256.2615
+Small Bodies,2003,366.279
+Small Bodies,2004,414.0864
+Small Bodies,2005,437.322
+Small Bodies,2006,202.9746
+Small Bodies,2007,125.5478
+Small Bodies,2008,53.4609
+Small Bodies,2009,50.7215
+Small Bodies,2010,49.966
+Small Bodies,2011,47.9925
+Small Bodies,2012,169.4712
+Small Bodies,2013,186.417
+Small Bodies,2014,251.1861
+Small Bodies,2015,283.938
+Small Bodies,2016,190.968
+Small Bodies,2017,184.5775
+Small Bodies,2018,198.765
+Small Bodies,2019,413.3754
+Small Bodies,2020,498.6
+Small Bodies,2021,379.1
+Small Bodies,2022,233
