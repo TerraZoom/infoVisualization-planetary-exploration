@@ -5,6 +5,8 @@ due by 11:59pm on April 9 (note that this will be our final assignment before th
 # WEB DEPLOY
 This project discussion, charts and graphics are deployed at https://www.terrazoom.com/atlas/assignment-3-design-workflow/
 
+PDF Document: INFO 5602 Info Visualization - Assignment3 Design Workflow - John Williams.pdf
+
 The main visualizations for this project can be found:
 <ul>
   <li>Reimagined Mission Tree Interactive -  https://www.terrazoom.com/atlas/infoVis/Assignment3/mission-tree-interactive.html </li>
